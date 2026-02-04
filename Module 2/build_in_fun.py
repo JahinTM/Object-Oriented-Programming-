@@ -1,0 +1,6 @@
+# height = max(1,2,3,4,5,6,7)
+height = max([1,2,3,4,5,6,7])
+smaller = min(1,2,3,4,5,6,7)
+jogfol = sum([1,2,3,4,5,6,7])
+count = len([10,20,30])
+print(height,smaller,count, jogfol)
